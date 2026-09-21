@@ -1,3 +1,4 @@
+![Uploading circuit.png…]()
 # Images 
 
 - `circuit.png` – hardware/circuit setup
