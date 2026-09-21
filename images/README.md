@@ -1,7 +1,5 @@
 # Images 
 
-Add project photos here, for example:
-
 - `circuit.jpg` – hardware/circuit setup
 - `parking-model.jpg` – project model
 - `esp32-cam.jpg` – ESP32-CAM setup
