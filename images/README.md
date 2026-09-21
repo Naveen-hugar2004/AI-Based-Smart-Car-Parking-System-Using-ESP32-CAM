@@ -1,4 +1,4 @@
-#images
+# Images
 
 - `circuit.png` – hardware/circuit setup
 - `parking-model.jpg` – project model
