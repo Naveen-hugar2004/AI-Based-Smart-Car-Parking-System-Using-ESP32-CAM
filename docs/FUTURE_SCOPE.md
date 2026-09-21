@@ -1,4 +1,4 @@
-# Future Scope
+# Future Scope 
 
 - Integrate an OCR/ANPR engine for automatic number-plate recognition.
 - Store vehicle entry and exit records in a database.
