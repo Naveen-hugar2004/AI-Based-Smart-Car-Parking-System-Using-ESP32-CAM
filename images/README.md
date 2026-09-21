@@ -1,6 +1,6 @@
 # Images 
 
-- `circuit.jpg` – hardware/circuit setup
+- `circuit.png` – hardware/circuit setup
 - `parking-model.jpg` – project model
 - `esp32-cam.jpg` – ESP32-CAM setup
 - `demo.jpg` – working demonstration
