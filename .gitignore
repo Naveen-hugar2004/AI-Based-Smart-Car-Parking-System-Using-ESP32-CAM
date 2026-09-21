@@ -1,0 +1,23 @@
+# Arduino build files
+*.bin
+*.elf
+*.map
+
+# Arduino IDE
+build/
+arduino/
+*.hex
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
